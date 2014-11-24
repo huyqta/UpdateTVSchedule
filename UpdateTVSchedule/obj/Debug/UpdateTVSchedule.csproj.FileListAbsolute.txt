@@ -3,3 +3,6 @@ D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\bin\Debug\Upd
 D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\bin\Debug\UpdateTVSchedule.pdb
 D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\obj\Debug\UpdateTVSchedule.exe
 D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\obj\Debug\UpdateTVSchedule.pdb
+E:\WORKING\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule_git\UpdateTVSchedule\bin\Debug\UpdateTVSchedule.exe.config
+E:\WORKING\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule_git\UpdateTVSchedule\obj\Debug\UpdateTVSchedule.exe
+E:\WORKING\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule_git\UpdateTVSchedule\obj\Debug\UpdateTVSchedule.pdb
