@@ -1,0 +1,5 @@
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\bin\Debug\UpdateTVSchedule.exe.config
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\bin\Debug\UpdateTVSchedule.exe
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\bin\Debug\UpdateTVSchedule.pdb
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\obj\Debug\UpdateTVSchedule.exe
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\obj\Debug\UpdateTVSchedule.pdb

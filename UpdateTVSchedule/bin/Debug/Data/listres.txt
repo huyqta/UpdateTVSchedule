@@ -1,0 +1,1018 @@
+﻿[
+    {
+        "id": "1",
+        "name": "VTV1",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=1&day=%|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=1&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv002",
+        "refgroup": "8"
+    },
+    {
+        "id": "2",
+        "name": "VTV3",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=3&day=%|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=2&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv004",
+        "refgroup": "8"
+    },
+    {
+        "id": "52",
+        "name": "VTV6",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=6&day=%|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=52&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv014",
+        "refgroup": "8"
+    },
+    {
+        "id": "53",
+        "name": "VTV5",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=5&day=%|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=53&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "8"
+    },
+    {
+        "id": "59",
+        "name": "VTV2",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=2&day=%|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=59&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv017",
+        "refgroup": "8"
+    },
+    {
+        "id": "60",
+        "name": "VTV4",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=4&day=%|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=60&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://66.160.142.201:1935/live/vtv4_h",
+        "refgroup": "8"
+    },
+    {
+        "id": "3",
+        "name": "HanoiTV1",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=3&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv011",
+        "refgroup": "9"
+    },
+    {
+        "id": "5",
+        "name": "HTVC Phim",
+        "urlcrawl": "http://www.htvonline.com.vn/ajax_htvonline.php?q=calenda_filter&p=livetv&livetv=110&catelenda=dd-mm-yyyy|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=5&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://203.205.0.60:1935/live/phim",
+        "refgroup": "15"
+    },
+    {
+        "id": "6",
+        "name": "HTVC Ca nhạc",
+        "urlcrawl": "http://www.htvonline.com.vn/ajax_htvonline.php?q=calenda_filter&p=livetv&livetv=47&catelenda=dd-mm-yyyy|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=6&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "7"
+    },
+    {
+        "id": "7",
+        "name": "National Geographic (HD)",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=7&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "4"
+    },
+    {
+        "id": "8",
+        "name": "FTV (SD)",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=8&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "4"
+    },
+    {
+        "id": "9",
+        "name": "HBO ",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=9&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "1"
+    },
+    {
+        "id": "10",
+        "name": "Max ",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=10&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "1"
+    },
+    {
+        "id": "11",
+        "name": "Star Movies ",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=11&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "1"
+    },
+    {
+        "id": "13",
+        "name": "Channel -V",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=13&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "3"
+    },
+    {
+        "id": "14",
+        "name": "FOX SPORTS",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=14&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "6"
+    },
+    {
+        "id": "15",
+        "name": "FOX SPORTS2",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=15&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "6"
+    },
+    {
+        "id": "18",
+        "name": "VTC 1",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=18&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv005",
+        "refgroup": "10"
+    },
+    {
+        "id": "19",
+        "name": "HTV7",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=19&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m22.megafun.vn/hctv/vstv015",
+        "refgroup": "15"
+    },
+    {
+        "id": "20",
+        "name": "HTV9",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=20&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "15"
+    },
+    {
+        "id": "21",
+        "name": "AXN",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=21&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "7"
+    },
+    {
+        "id": "22",
+        "name": "Disney",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=22&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "5"
+    },
+    {
+        "id": "27",
+        "name": "VITV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=27&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "5"
+    },
+    {
+        "id": "28",
+        "name": "O2 TV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=28&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "2"
+    },
+    {
+        "id": "32",
+        "name": "HTVC Phụ nữ",
+        "urlcrawl": "http://www.htvonline.com.vn/ajax_htvonline.php?q=calenda_filter&p=livetv&livetv=55&catelenda=dd-mm-yyyy|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=32&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://203.205.0.60:1935/live/phunu",
+        "refgroup": "15"
+    },
+    {
+        "id": "34",
+        "name": "Cartoon Network",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=34&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "5"
+    },
+    {
+        "id": "35",
+        "name": "Bloomberg",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=35&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "5"
+    },
+    {
+        "id": "36",
+        "name": "Channel News Asia",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=36&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "5"
+    },
+    {
+        "id": "37",
+        "name": "DW",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=37&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "2"
+    },
+    {
+        "id": "39",
+        "name": "NHK",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=39&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "2"
+    },
+    {
+        "id": "43",
+        "name": "Arirang",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=43&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "4"
+    },
+    {
+        "id": "45",
+        "name": "Discovery",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=45&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "4"
+    },
+    {
+        "id": "46",
+        "name": "Discovery Travel & Living",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=46&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "4"
+    },
+    {
+        "id": "47",
+        "name": "Animal Planet",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=47&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "4"
+    },
+    {
+        "id": "48",
+        "name": "VOVTV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=48&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "5"
+    },
+    {
+        "id": "49",
+        "name": "TV5 Asie",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=49&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "4"
+    },
+    {
+        "id": "54",
+        "name": "HTV1",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=54&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "15"
+    },
+    {
+        "id": "55",
+        "name": "HTV2",
+        "urlcrawl": "http://www.htvonline.com.vn/ajax_htvonline.php?q=calenda_filter&p=livetv&livetv=22&catelenda=dd-mm-yyyy|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=55&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv001",
+        "refgroup": "15"
+    },
+    {
+        "id": "56",
+        "name": "HTV3",
+        "urlcrawl": "http://www.htvonline.com.vn/ajax_htvonline.php?q=calenda_filter&p=livetv&livetv=49&catelenda=dd-mm-yyyy|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=56&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "15"
+    },
+    {
+        "id": "58",
+        "name": "VTC 3",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=58&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "http://livecdn.megatv.vn/live/vtc3-desktop?fmt=x264_1200k_flv&size=640x480&cpid=135&sk=A79D6B27B277923674AC95A650EC989D&start=0",
+        "refgroup": "10"
+    },
+    {
+        "id": "62",
+        "name": "BinhDuongTV1",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=62&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    },
+    {
+        "id": "63",
+        "name": "BinhDuongTV2",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=63&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    },
+    {
+        "id": "64",
+        "name": "BinhDuongTV4",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=64&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    },
+    {
+        "id": "65",
+        "name": "VinhLongTV1",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=65&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    },
+    {
+        "id": "66",
+        "name": "VinhLongTV2",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=66&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    },
+    {
+        "id": "67",
+        "name": "DongNaiTV1",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=67&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    },
+    {
+        "id": "68",
+        "name": "DongNaiTV2",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=68&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    },
+    {
+        "id": "69",
+        "name": "LongAnTV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=69&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv022",
+        "refgroup": "9"
+    },
+    {
+        "id": "71",
+        "name": "CanThoTV 1",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=22&day=%|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=71&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    },
+    {
+        "id": "73",
+        "name": "DRT1",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=73&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://222.255.167.159/live/livestream",
+        "refgroup": "9"
+    },
+    {
+        "id": "75",
+        "name": "QuangNinhTV3",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=75&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv021",
+        "refgroup": "9"
+    },
+    {
+        "id": "76",
+        "name": "DongThapTV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=76&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    },
+    {
+        "id": "81",
+        "name": "Vĩnh Phúc",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=81&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    },
+    {
+        "id": "82",
+        "name": "HanoiTV2",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=82&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv012",
+        "refgroup": "9"
+    },
+    {
+        "id": "96",
+        "name": "HiTV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=96&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "6"
+    },
+    {
+        "id": "97",
+        "name": "HcaTV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=97&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "5"
+    },
+    {
+        "id": "98",
+        "name": "V-news",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=98&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "4"
+    },
+    {
+        "id": "100",
+        "name": "Phú yên",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=100&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://113.161.4.102/live/vtvphuyen.tv",
+        "refgroup": "9"
+    },
+    {
+        "id": "101",
+        "name": "VTV-DaNang",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=24&day=%|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=101&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://222.255.167.149/live/livestream",
+        "refgroup": "8"
+    },
+    {
+        "id": "103",
+        "name": "VTC 12",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=103&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "10"
+    },
+    {
+        "id": "104",
+        "name": "Kids TV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=104&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "5"
+    },
+    {
+        "id": "105",
+        "name": "Let's Viet",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=105&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv010",
+        "refgroup": "7"
+    },
+    {
+        "id": "106",
+        "name": "VTC6",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=106&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "10"
+    },
+    {
+        "id": "107",
+        "name": "VTC 2",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=107&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv006",
+        "refgroup": "10"
+    },
+    {
+        "id": "108",
+        "name": "MTV",
+        "urlcrawl": "http://www.htvonline.com.vn/ajax_htvonline.php?q=calenda_filter&p=livetv&livetv=14&catelenda=dd-mm-yyyy|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=108&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "7"
+    },
+    {
+        "id": "120",
+        "name": "Star World HD",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=120&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "7"
+    },
+    {
+        "id": "121",
+        "name": "Star Movies HD",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=121&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "1"
+    },
+    {
+        "id": "123",
+        "name": "MTV HD",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=123&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "7"
+    },
+    {
+        "id": "126",
+        "name": "NHK HD",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=126&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "2"
+    },
+    {
+        "id": "133",
+        "name": "HTVC Gia đình",
+        "urlcrawl": "http://www.htvonline.com.vn/ajax_htvonline.php?q=calenda_filter&p=livetv&livetv=45&catelenda=dd-mm-yyyy|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=133&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://203.205.0.60:1935/live/giadinh",
+        "refgroup": "15"
+    },
+    {
+        "id": "135",
+        "name": "HTVC Du lịch và Cuộc sống",
+        "urlcrawl": "http://www.htvonline.com.vn/ajax_htvonline.php?q=calenda_filter&p=livetv&livetv=39&catelenda=dd-mm-yyyy|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=135&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://203.205.0.60:1935/live/dulich",
+        "refgroup": "15"
+    },
+    {
+        "id": "138",
+        "name": "ANTV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=138&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "http://m26.megafun.vn/ilive.m3u8?c=vstv053&token=taYfU_On0NJB0rwvT3i1NQ&time=1406357834&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2",
+        "refgroup": "8"
+    },
+    {
+        "id": "139",
+        "name": "Today",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=139&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv003",
+        "refgroup": "1"
+    },
+    {
+        "id": "140",
+        "name": "Net Viet",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=140&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "3"
+    },
+    {
+        "id": "141",
+        "name": "VTC 14",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=141&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "http://hls.sohatv.vn/w/vtc14/stream.m3u8",
+        "refgroup": "10"
+    },
+    {
+        "id": "142",
+        "name": "HTV4",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=142&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "15"
+    },
+    {
+        "id": "143",
+        "name": "HTVC-Thể Thao",
+        "urlcrawl": "http://www.htvonline.com.vn/ajax_htvonline.php?q=calenda_filter&p=livetv&livetv=48&catelenda=dd-mm-yyyy|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=143&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "15"
+    },
+    {
+        "id": "144",
+        "name": "HTVC-Thuần Việt",
+        "urlcrawl": "http://www.htvonline.com.vn/ajax_htvonline.php?q=calenda_filter&p=livetv&livetv=109&catelenda=dd-mm-yyyy|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=144&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8",
+        "refgroup": "15"
+    },
+    {
+        "id": "145",
+        "name": "BacNinhTV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=145&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    },
+    {
+        "id": "147",
+        "name": "iTV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=147&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://live.kenhitv.vn/liveweb/itv_web_500k.stream",
+        "refgroup": "7"
+    },
+    {
+        "id": "148",
+        "name": "VTC 16",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=148&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "http://hls.sohatv.vn/play/vtc16.m3u8",
+        "refgroup": "10"
+    },
+    {
+        "id": "149",
+        "name": "VTVCab 3 - Thể thao TV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=149&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "6"
+    },
+    {
+        "id": "150",
+        "name": "VTVCab 16 – Bóng đá TV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=150&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "6"
+    },
+    {
+        "id": "151",
+        "name": "VTVCab 1 - Giải trí TV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=151&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "8"
+    },
+    {
+        "id": "152",
+        "name": "VTVCab 2 - Phim Việt",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=152&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8",
+        "refgroup": "8"
+    },
+    {
+        "id": "153",
+        "name": "VTVCab 4 – M4Me",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=153&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "8"
+    },
+    {
+        "id": "154",
+        "name": "VTVCab 5 - E Channel",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=154&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "8"
+    },
+    {
+        "id": "155",
+        "name": "VTVCab 6 - Khoa học công nghệ",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=13&day=0|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=155&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "8"
+    },
+    {
+        "id": "156",
+        "name": "VTVCab 8 – Bibi",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=14&day=%|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=156&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "8"
+    },
+    {
+        "id": "157",
+        "name": "VTVCab 12 - Style TV",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=157&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "8"
+    },
+    {
+        "id": "158",
+        "name": "VTVCab 17 – Du lịch",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=21&day=%|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=158&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "8"
+    },
+    {
+        "id": "160",
+        "name": "VTVCab 7 - D DRAMAS",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=20&day=0|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=160&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "8"
+    },
+    {
+        "id": "161",
+        "name": "VTVCab 3 - Thể thao (HD)",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=161&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "6"
+    },
+    {
+        "id": "162",
+        "name": "VTVCab 16 - Bóng đá TV (HD)",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=162&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "6"
+    },
+    {
+        "id": "163",
+        "name": "HTV7 HD",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=163&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "15"
+    },
+    {
+        "id": "164",
+        "name": "HTV9 HD",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=164&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "15"
+    },
+    {
+        "id": "165",
+        "name": "HTV2 HD",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=165&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "15"
+    },
+    {
+        "id": "166",
+        "name": "QPVN",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=166&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "2"
+    },
+    {
+        "id": "167",
+        "name": "HTVC Mua sắm, tiêu dùng",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=167&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "15"
+    },
+    {
+        "id": "168",
+        "name": "VTC HD1",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=168&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://66.160.142.201:1935/live",
+        "refgroup": "10"
+    },
+    {
+        "id": "169",
+        "name": "VTC HD2",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=169&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "10"
+    },
+    {
+        "id": "170",
+        "name": "VTC HD3",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=170&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "10"
+    },
+    {
+        "id": "171",
+        "name": "iTV (HD)",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=171&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "7"
+    },
+    {
+        "id": "172",
+        "name": "VTC3 HD",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=172&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "10"
+    },
+    {
+        "id": "173",
+        "name": "K+1",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=173&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "3"
+    },
+    {
+        "id": "174",
+        "name": "K+ Nhịp sống",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=174&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "3"
+    },
+    {
+        "id": "175",
+        "name": "K+ Phái mạnh",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=175&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "3"
+    },
+    {
+        "id": "178",
+        "name": "Diva Universal",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=178&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "7"
+    },
+    {
+        "id": "179",
+        "name": "Outdoor Channel (HD)",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=179&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "3"
+    },
+    {
+        "id": "180",
+        "name": "Asian Food Channel",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=180&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "3"
+    },
+    {
+        "id": "181",
+        "name": "Da Vinci",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=181&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "4"
+    },
+    {
+        "id": "182",
+        "name": "VTV1 HD",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=182&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "8"
+    },
+    {
+        "id": "183",
+        "name": "VTV3 HD",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=183&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "8"
+    },
+    {
+        "id": "184",
+        "name": "VTV6 HD",
+        "urlcrawl": "http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=184&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "8"
+    },
+    {
+        "id": "72",
+        "name": "CanthoTV 2",
+        "urlcrawl": "http://vtv.vn/Handlers/ScheduleHome.aspx?channel=23&day=%|http://www.mytv.com.vn/module/ajax/ajax_get_schedule.php?channelId=72&dateSchedule=%",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": null,
+        "refgroup": "9"
+    },
+    {
+        "id": "555",
+        "name": "VTV Huế",
+        "urlcrawl": "",
+        "urlapi": null,
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv024",
+        "refgroup": "9"
+    },
+    {
+        "id": "751",
+        "name": "QuangNinhTV1",
+        "urlcrawl": "",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://m35.megafun.vn/hctv/vstv020",
+        "refgroup": "9"
+    },
+    {
+        "id": "1451",
+        "name": "ATV - An Giang",
+        "urlcrawl": "",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://113.161.212.25/live/atv1",
+        "refgroup": "9"
+    },
+    {
+        "id": "1452",
+        "name": "BPTV2 - Bình Phước",
+        "urlcrawl": "",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://113.161.180.136/live/thbp2.tv",
+        "refgroup": "9"
+    },
+    {
+        "id": "1453",
+        "name": "THGL - Gia Lai",
+        "urlcrawl": "",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://222.255.169.132/live/livestream",
+        "refgroup": "9"
+    },
+    {
+        "id": "1455",
+        "name": "THP - Hải Phòng",
+        "urlcrawl": "",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://203.162.238.46/live/livestream",
+        "refgroup": "9"
+    },
+    {
+        "id": "1454",
+        "name": "HTTV - Hà Tĩnh",
+        "urlcrawl": "",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "http://hatinhtv.vn/liveevent.m3u8",
+        "refgroup": "9"
+    },
+    {
+        "id": "1456",
+        "name": "Hài 247",
+        "urlcrawl": "",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "http://83.170.111.147:1935/liveStream/hai_1/playlist.m3u8",
+        "refgroup": "9"
+    },
+    {
+        "id": "1457",
+        "name": "THLC - Lào Cai",
+        "urlcrawl": "",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "\n",
+        "refgroup": "9"
+    },
+    {
+        "id": "1458",
+        "name": "KTV - Khánh Hòa",
+        "urlcrawl": "",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "rtmp://118.69.198.109/live/video",
+        "refgroup": "9"
+    },
+    {
+        "id": "1459",
+        "name": "THTG - Tiền Giang",
+        "urlcrawl": "",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    },
+    {
+        "id": "1460",
+        "name": "THTV - Trà Vinh",
+        "urlcrawl": "",
+        "urlapi": "http://huyqta.esy.es/index.php/api/programs/GetProgramsByChannel/%s/%s/format/json",
+        "urllogo": "",
+        "refgroup": "9"
+    }
+]

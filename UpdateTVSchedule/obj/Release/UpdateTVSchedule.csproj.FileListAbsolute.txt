@@ -1,0 +1,8 @@
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\bin\Release\UpdateTVSchedule.exe.config
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\bin\Release\UpdateTVSchedule.exe
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\bin\Release\UpdateTVSchedule.pdb
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\bin\Release\ftplib.dll
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\bin\Release\HtmlAgilityPack.dll
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\bin\Release\Newtonsoft.Json.dll
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\obj\Release\UpdateTVSchedule.exe
+D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\obj\Release\UpdateTVSchedule.pdb
