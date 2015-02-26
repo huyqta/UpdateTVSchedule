@@ -6,3 +6,9 @@ D:\PRIVATES\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule\obj\Debug\Upd
 E:\WORKING\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule_git\UpdateTVSchedule\bin\Debug\UpdateTVSchedule.exe.config
 E:\WORKING\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule_git\UpdateTVSchedule\obj\Debug\UpdateTVSchedule.exe
 E:\WORKING\NET\UpdateTVSchedule\UpdateTVSchedule\UpdateTVSchedule_git\UpdateTVSchedule\obj\Debug\UpdateTVSchedule.pdb
+E:\PRIVATES\UpdateTVSchedule\UpdateTVSchedule\bin\Debug\UpdateTVSchedule.exe.config
+E:\PRIVATES\UpdateTVSchedule\UpdateTVSchedule\obj\Debug\UpdateTVSchedule.exe
+E:\PRIVATES\UpdateTVSchedule\UpdateTVSchedule\obj\Debug\UpdateTVSchedule.pdb
+E:\PRIVATES\UpdateTVSchedule\UpdateTVSchedule\bin\Debug\UpdateTVSchedule.exe
+E:\PRIVATES\UpdateTVSchedule\UpdateTVSchedule\bin\Debug\UpdateTVSchedule.pdb
+E:\PRIVATES\UpdateTVSchedule\UpdateTVSchedule\obj\Debug\UpdateTVSchedule.csprojResolveAssemblyReference.cache

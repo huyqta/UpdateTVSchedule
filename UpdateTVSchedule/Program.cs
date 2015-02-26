@@ -227,7 +227,9 @@ namespace UpdateTVSchedule
         {
             try
             {
-                string data = GetMessage(urlcrawl.Replace("%", DateTime.Now.ToString("dd-MM-yyyy")));
+                string datetime = DateTime.Now.ToString("dd-MM-yyyy");
+                urlcrawl = urlcrawl.Replace("dd-mm-yyyy", datetime);
+                string data = GetMessage(urlcrawl);
 
                 if (data != null)
                 {
@@ -277,8 +279,8 @@ namespace UpdateTVSchedule
                     document.LoadHtml(data);
 
                     string[] desc = document.DocumentNode.Descendants("b").Select(n => n.InnerText).ToArray();
-                    string[] program = document.DocumentNode.Descendants("p").Select(n => n.InnerText).ToArray();
-                    string[] time = document.DocumentNode.Descendants("span").Select(n => n.InnerText).ToArray();
+                    string[] time = document.DocumentNode.Descendants("p").Select(n => n.InnerText).ToArray();
+                    string[] program = document.DocumentNode.Descendants("span").Select(n => n.InnerText).ToArray();
                     if (program.Count() > 0)
                     {
                         for (int i = 0; i < program.Count(); i++)
